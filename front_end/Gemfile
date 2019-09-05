@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'rspec'
+gem 'capybara'
+gem 'cucumber'
+gem 'selenium-webdriver'
+gem 'site_prism'
+gem 'pry'
+gem 'webshot'
+gem 'rubocop'
+gem 'webshot'
+gem 'rails'
+gem 'json'
